@@ -78,7 +78,7 @@ Identity връщаше:
 [Required(ErrorMessage = "Имейлът е задължителен.")]
 [EmailAddress(ErrorMessage = "Моля, въведете валиден имейл адрес.")]
 
-###✔ Решение на Проблем 3
+✔ Решение на Проблем 3
 Добавени са ViewBag параметри за запазване на филтрите:
 
 csharp
@@ -87,7 +87,7 @@ ViewBag.CategoryId = categoryId;
 ViewBag.Sort = sort;
 ViewBag.Certificate = certificate;
 
-##5. Следващи стъпки
+5. Следващи стъпки
  Предстои да се реализира: 
  -дипломна работа
 
